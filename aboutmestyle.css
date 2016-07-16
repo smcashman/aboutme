@@ -23,6 +23,10 @@ background-repeat: none;
     .masthead {
         padding: 3em 0;
     }
+
+    .content-footer {
+        font-size:1em;
+    }
 }
 
 .masthead-intro {
